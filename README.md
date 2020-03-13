@@ -1,0 +1,2 @@
+# week2_hw
+This website was completed for Week 2 Homework and it acts as a basis for my portfolio which I hope to add to over the duration of this course. It contains an Index page with some brief information about me, a portfolio section which displays some of my previous projects that I have already completed on this coding bootcamp and finally a contact page so that the user can get in touch with me. 
